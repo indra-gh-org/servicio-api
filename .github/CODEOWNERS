@@ -1,4 +1,4 @@
-*                      @org/plataforma
-/src/api/              @org/backend
-/infra/                @org/equipo-devops @org/seguridad
-/.github/workflows/    @org/equipo-devops
+*                      @indra-gh-org/plataforma
+/src/api/              @indra-gh-org/backend
+/infra/                @indra-gh-org/devops @indra-gh-org/seguridad
+/.github/workflows/    @indra-gh-org/devops
