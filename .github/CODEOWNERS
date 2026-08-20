@@ -1,0 +1,4 @@
+*                      @org/plataforma
+/src/api/              @org/backend
+/infra/                @org/equipo-devops @org/seguridad
+/.github/workflows/    @org/equipo-devops
